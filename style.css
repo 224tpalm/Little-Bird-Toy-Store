@@ -1,0 +1,47 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+h1, .title {
+font-family: 'Annie Use Your Telescope';
+  text-transform: uppercase;
+}
+
+h4, .selectionform {
+    font-family: 'Bilbo';
+}
+
+.container-fluid-2 {
+    background-color: #fbd7c1;
+    padding-right: 30px;
+}
+
+.container-fluid-1, .container-fluid-3 {
+    background-color: #b08c78;
+    padding-left: 30px;
+}
+
+.logo {
+  padding-left: 40px;
+}
+
+    #train {
+      position: relative;
+      cursor: pointer;
+    }
+
+.carousel-inner {
+  text-align: center;
+}
+
+.shopitems {
+  text-align: center;
+  padding-left: 180px;
+}
+
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: cursive;
+}
